@@ -34,7 +34,7 @@ sudo yum install jq
 1. Place the TerminalGPT.sh script in a directory of your choice.
 2. Make the script executable:
 ```bash
-chmod +x /path/to/your/openai_request.sh
+chmod +x /path/to/your/TerminalGPT.sh
 ```
 Replace /path/to/your/ with the actual path to the directory containing the TerminalGPT.sh script.
 
